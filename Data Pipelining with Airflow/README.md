@@ -1,6 +1,6 @@
 ## Data Pipelining with Airflow
 
-This repository provides the ETL pipeline, to ingest sparkify's music data into an AWS Redshift Data Warehouse. The ETL pipeline will be run on an hourly basis, scheduled using Airflow.
+This repository provides the ETL pipeline, to ingest sparkify's music data into an AWS Redshift Data Warehouse. The ETL pipeline will be run on a daily basis, scheduled using Airflow.
 
 * Airflow allows workflows to be defined as code, they become more maintainable, versionable, testable, and collaborative
 
