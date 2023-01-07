@@ -10,8 +10,8 @@ from helpers import SqlQueries
 # /opt/airflow/start.sh
 
 default_args = {
-    'owner': 'udacity',
-    'start_date': datetime(2019, 1, 12),
+    'owner': 'Adnan',
+    'start_date': datetime(2022, 12, 5),
     'depends_on_past': False,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
