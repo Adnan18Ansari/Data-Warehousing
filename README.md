@@ -1,2 +1,2 @@
 # Data-Warehousing
-This repository provides Data Modeling and Data Warehousing techniques and automation with Airflow.
+This repository provides Data Modeling and Data Warehousing techniques and their automation with Airflow.
